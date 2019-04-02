@@ -20,7 +20,7 @@ $(document).ready(function () {
 		]
 	});
 	var navSlider = $('.header-right').slick({
-		slidesToShow: 5,
+		slidesToShow: 6,
 		slidesToScroll: 1,
 		arrows: false,
 		dots: false,
