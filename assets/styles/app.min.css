@@ -740,9 +740,9 @@ template {
 .pol1__p {
 	font-family: 'Proxima Nova Regular';
 	line-height: normal;
-	font-size: 24px;
+	font-size: 18px;
 	margin: 0 !important;
-	padding-bottom: 23px
+	padding-bottom: 15px
 }
 .pol1__a {
 	margin-top: 53px
@@ -970,7 +970,7 @@ s {
 		height: 500px;
 	}
 	.header-right {
-		width: 710px;
+		width: 852px;
 		background-color: #fff;
 		border: 1px solid #DBDBDB;		
 		padding-left: 0;
