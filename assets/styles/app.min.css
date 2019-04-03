@@ -1411,6 +1411,12 @@ s {
 	-ms-flex-align: center;
 	align-items: center;
 }
+.render .content-inn-item-content {
+	background: rgba(255, 255, 255, 0.9);
+	padding: 20px;
+	border-radius: 10px;
+	width: 490px;
+}
 @media screen and (max-width: 1400px) {
 	.pol1, .pol2 {
 		padding-top: 150px !important;
