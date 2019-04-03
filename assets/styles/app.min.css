@@ -1411,3 +1411,17 @@ s {
 	-ms-flex-align: center;
 	align-items: center;
 }
+@media screen and (max-width: 1400px) {
+	.pol1, .pol2 {
+		padding-top: 150px !important;
+	}
+	.pol1 > h6 {
+		padding-bottom: 20px;
+	}
+	.map-cont {
+		margin-top: 10px;
+	}
+	.map iframe {
+		height: 440px;
+	}
+}
